@@ -22,11 +22,12 @@
 
 <div id="publicaciones"></div>
 
-### ➔ [DESCARGAR LIBRO LA COMUNIDAD DEL TUNING (PDF)](https://github.com)
+### ➔ [DESCARGAR LIBRO LA COMUNIDAD DEL TUNING (PDF)](../../releases/download/v2.0/La_comunidad_del_tuning_Bandolero.pdf)
 
 *(Archivo disponible para su libre descarga. Al hacer clic, la copia se descargará automáticamente en tu dispositivo. Su reproducción es libre citando a sus autores).*
 
 ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡
+
 
 <br>
 <br>
