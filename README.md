@@ -115,5 +115,5 @@ Bandolero Estudio es un estudio de arquitectura fundado en 2022, que investiga s
 <summary><b>☆ GENTE MAL</b></summary>
 <br>
 
-GENTE MAL es una plataforma de gestión cultural y foro de discusión de diseño fundada en 2023. Funciona como el programa público de Bandolero. 7 ediciones, hasta el momento.
+GENTE MAL es una plataforma de gestión cultural y foro de discusión de diseño fundada en 2023. Funciona como el programa público de Bandolero Estudio. 7 ediciones, hasta el momento.
 </details>
