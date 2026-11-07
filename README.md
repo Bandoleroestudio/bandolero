@@ -1,3 +1,15 @@
+<style>
+  /* Fuerza que todo el cuerpo de la web use tipografía monoespaciada tipo máquina de escribir o notas */
+  body, p, a, h1, h2, h3, summary, details, ul, li, code, pre {
+    font-family: "Courier New", Courier, Monaco, "Lucida Console", monospace !important;
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+  /* Estilizado para los enlaces limpios */
+  a { color: #0066cc !important; text-decoration: underline !important; }
+  a:hover { color: #004499 !important; }
+</style>
+
 ☆  [BANDOLERO ESTUDIO](#-bandolero-estudio)  ☆  [GENTE MAL](#-gente-mal)  ☆
 
 [METODOLOGÍA](#-metodología)  ·  [CASOS DE ESTUDIO](#-casos-de-estudio)  ·  [BIBLIOTECA](#-biblioteca)  ·  [PUBLICACIONES](#-publicaciones)  ·  [CONTACTO & BIO](#-contacto--info)
@@ -13,7 +25,7 @@
 <br>
 <br>
 
-## PUBLICACIONES
+### PUBLICACIONES
 
 ### ➔ [DESCARGAR LIBRO LA COMUNIDAD DEL TUNING (PDF)](https://github.com)
 
@@ -35,14 +47,14 @@ Bandolero Estudio es un estudio de arquitectura fundado en 2022, que investiga s
 
 ---
 
-### 🧠 METODOLOGÍA
+###  METODOLOGÍA
 
 #### Hacia una definición del Tecnomexicanismo
 
 *Archivo en construcción.*
 ---
 
-### 🛠️ CASOS DE ESTUDIO
+###  CASOS DE ESTUDIO
 
 *   ➔ Tecnomexicanismos [INVESTIGACIÓN] [en curso]
 *   *Archivo en construcción.*
@@ -79,7 +91,7 @@ GENTE MAL es una plataforma de gestión cultural y foro de discusión de diseño
 <br>
 <br>
 
-## 📑 BIBLIOTECA
+##  BIBLIOTECA
 
 <details>
 <summary><b>➔ Ver referencias e inspiración (Clic para abrir)</b></summary>
