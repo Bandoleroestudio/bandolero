@@ -38,19 +38,25 @@
 
 <details>
 <summary><b>☆ BANDOLERO ESTUDIO</b></summary>
+<br>
 
 Bandolero Estudio es un estudio de arquitectura fundado en 2022, que investiga sistemas de diseño vernáculo abordando cada proyecto desde tres aspectos en paralelo, el espacio, los objetos y las personas que lo ocupan, transforman y disputan. Su práctica se mueve entre la investigación de campo, la curaduría y la gestión cultural; distintos outputs de una misma investigación con interés especial en la cultura material popular, la autoconstrucción y las economías informales que sostienen la vida urbana en las ciudades mexicanas.
 
----
-
-###  METODOLOGÍA
+<br>
+<details>
+<summary><b>🧠 METODOLOGÍA</b></summary>
+<br>
 
 #### Hacia una definición del Tecnomexicanismo
 
 *Archivo en construcción.*
----
+</details>
 
-###  CASOS DE ESTUDIO
+<br>
+
+<details>
+<summary><b>🛠️ CASOS DE ESTUDIO</b></summary>
+<br>
 
 *   ➔ Tecnomexicanismos [INVESTIGACIÓN] [en curso]
 *   *Archivo en construcción.*
@@ -74,28 +80,30 @@ Bandolero Estudio es un estudio de arquitectura fundado en 2022, que investiga s
 *   *Archivo en construcción.*
 </details>
 
-<details>
-<summary><b>☆ GENTE MAL</b></summary>
-
-GENTE MAL es una plataforma de gestión cultural y foro de discusión de diseño fundada en 2023. Funciona como el programa público de Bandolero. 7 ediciones, hasta el momento.
-</details>
-
-✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡
-
 <br>
-<br>
-<br>
-<br>
-
-##  BIBLIOTECA
 
 <details>
-<summary><b>➔ Ver referencias e inspiración (Clic para abrir)</b></summary>
+<summary><b>📑 BIBLIOTECA</b></summary>
+<br>
 
 * **1957–1972** | [La Internacional Situacionista – Vol. 1: La realización del arte (PDF)](https://github.com)
 * **1957–1972** | [La Internacional Situacionista – Vol. 2: La supresión de la política (PDF)](https://github.com)
 * **1957–1972** | [La Internacional Situacionista – Vol. 3: La práctica de la teoría (PDF)](https://github.com)
 </details>
+<br>
+</details>
+
+<details>
+<summary><b>☆ GENTE MAL</b></summary>
+<br>
+
+GENTE MAL es una plataforma de gestión cultural y foro de discusión de diseño fundada en 2023. Funciona como el programa público de Bandolero. 7 ediciones, hasta el momento.
+</details>
+
+<br>
+<br>
+<br>
+<br>
 
 ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡
 
