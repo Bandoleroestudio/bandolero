@@ -34,10 +34,8 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-## 👤 CONTACTO & INFO
+##  CONTACT & INFO
 
 *   📥 **bandoleroestudio@gmail.com**
 *   🌐 **@bandoleroestudio** · **@gentemal___**
