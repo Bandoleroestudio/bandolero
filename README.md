@@ -22,10 +22,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
-### PUBLICACIONES
 
 ### ➔ [DESCARGAR LIBRO LA COMUNIDAD DEL TUNING (PDF)](https://github.com)
 
