@@ -12,11 +12,8 @@
 
 ☆  [BANDOLERO ESTUDIO](#bandolero-estudio)  ☆  [GENTE MAL](#gente-mal)  ☆
 
-[METODOLOGÍA](#metodologia)  ·  [CASOS DE ESTUDIO](#casos-de-estudio)  ·  [BIBLIOTECA](#biblioteca)  ·  [PUBLICACIONES](#publicaciones)  ·  [CONTACTO & BIO](#contacto-info)
-
 ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡
 
-<br>
 <br>
 <br>
 <br>
@@ -29,16 +26,16 @@
 
 *(Archivo disponible para su libre descarga. Al hacer clic, la copia se descargará automáticamente en tu dispositivo. Su reproducción es libre citando a sus autores).*
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡ · ✦ · ⊹ · ★ · ♡
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 👤 CONTACTO & INFO
 
