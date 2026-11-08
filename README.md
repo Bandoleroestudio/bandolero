@@ -100,9 +100,9 @@ Bandolero Estudio es un estudio de arquitectura fundado en 2022, que investiga s
 <summary><b>📑 BIBLIOTECA</b></summary>
 <br>
 
-* **1957–1972** | [La Internacional Situacionista – Vol. 1: La realización del arte (PDF)](../../releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_1)
-* **1957–1972** | [La Internacional Situacionista – Vol. 2: La supresión de la política (PDF)](../../releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_2)
-* **1957–1972** | [La Internacional Situacionista – Vol. 3: La práctica de la teoría (PDF)](../../releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_3)
+* **1957–1972** | [La Internacional Situacionista – Vol. 1: La realización del arte (PDF)](https://github.com/Bandoleroestudio/bandolero/releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_1.pdf)
+* **1957–1972** | [La Internacional Situacionista – Vol. 2: La supresión de la política (PDF)](https://github.com/Bandoleroestudio/bandolero/releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_2.pdf)
+* **1957–1972** | [La Internacional Situacionista – Vol. 3: La práctica de la teoría (PDF)](https://github.com/Bandoleroestudio/bandolero/releases/download/v1.0/INTERNACIONAL_SITUACIONISTA_Vol_3.pdf)
 </details>
 <br>
 </details>
